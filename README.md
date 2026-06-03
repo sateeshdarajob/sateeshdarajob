@@ -20,8 +20,8 @@
 
 I'm a results-driven **Technical Program Manager** with **15+ years** of experience leading complex, cross-functional engineering programs from concept to delivery. I specialize in Program, Risk, Dependency, and Conflict Management — turning ambiguity into clear roadmaps and shipping high-quality software at scale.
 
-- 🔭 I focus on **Program Management, Quality Engineering, and Automation**
-- 🛠️ I drive delivery with **JIRA, APIs, Java, and Jenkins CI/CD pipelines**
+- 🔭 I focus on **Program Management, Release Management, Quality Engineering, and Automation**
+- 🛠️ I drive delivery with **JIRA, Confluence, APIs, Java, and Jenkins CI/CD pipelines**
 - 🤖 I'm passionate about applying **AI** to streamline engineering workflows
 - ⚡ Fun fact: I believe great programs are built on clarity, communication, and a relentless focus on quality
 
