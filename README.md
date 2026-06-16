@@ -57,6 +57,9 @@ I'm a results-driven **Technical Program Manager** with **15+ years** of experie
   <a href="https://github.com/sateeshdarajob" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://sateeshproject.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20my%20Portfolio-0E75B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Check my Portfolio" />
+  </a>
 </p>
 
 <!-- ====================== SECTION E: GITHUB STATS ====================== -->
@@ -89,6 +92,9 @@ I'm always open to collaborating on impactful programs, sharing ideas on quality
   </a>
   <a href="https://github.com/sateeshdarajob" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://sateeshproject.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20my%20Portfolio-0E75B6?style=for-the-badge&logo=netlify&logoColor=white" alt="Check my Portfolio" />
   </a>
 </p>
 
